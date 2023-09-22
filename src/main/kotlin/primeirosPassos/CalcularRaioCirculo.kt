@@ -1,4 +1,6 @@
-const val PI = 3.141516
+import kotlin.math.PI
+
+//const val PI = 3.141516
 fun main(){
 
     var circulo = 15
