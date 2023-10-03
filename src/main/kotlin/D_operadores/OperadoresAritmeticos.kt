@@ -9,6 +9,7 @@ fun main(){
     println("Subtração: ${valorA.minus(valorB)}")
     println("Multiplicação: ${valorA.times(valorB)}")
     println("Divisão: ${valorA.div(valorB)}")
+    println("Modulo: ${valorA.mod(valorB)}")
 
     valorA += valorB
     println("Soma comum (valorA += valorB [nada novo sob o sol]): $valorA")
